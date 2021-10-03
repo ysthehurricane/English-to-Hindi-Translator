@@ -19,6 +19,12 @@ Download Dataset: https://www.kaggle.com/umasrikakollu72/hindi-english-truncated
 
 This dataset is collected from three sources **ted, indic2012, tides** and each have **39881, 37726 and 50000** records respectively
 
+## Prerequisite Technical Skills
+- Python
+- Tensorflow
+- Keras
+- NLTK
+
 ## Kaggle link
 
 Get step by step tutorial: https://www.kaggle.com/ysthehurricane/english-to-hindi-translator/notebook#Decoder-LSTM-Model
